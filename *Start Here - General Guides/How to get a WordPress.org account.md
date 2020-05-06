@@ -3,6 +3,7 @@
 1. Go to https://login.wordpress.org/register
 2. Enter your preferred username and add your email address. We recommend that you use the same username as your Slack user ID for ease. However, you can use any username you like: ![see screen shot](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Create%20wordpress-org%20account%2001_EN.png)
 
+
 3. Tick the box to subscribe to the WordPress mailing list if you would like to receive updates and important announcements from WordPress.
 4. (Optional) A box with additional details will appear. You can fill the details in or not - it’s up to you! This box will also appear after Step 6
 
