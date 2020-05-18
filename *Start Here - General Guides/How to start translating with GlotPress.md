@@ -10,11 +10,21 @@
 
 1.  Log in at https://wordpress.org
     
-2.  Go to [translate.wordpress.org](http://translate.wordpress.org), where you will find a list of every language available for translating WordPress. If you speak one of the languages listed, you can click on it to be taken to the project page for that language.
+2.  Go to [translate.wordpress.org](http://translate.wordpress.org), where you will find a list of every language available for translating WordPress: 
+![Screenshot of languages list in GlotPress](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Glotpress%20-%20languages%20list_en.png+)
+
+3. If you speak one of the languages listed, you can click on it to be taken to the project page for that language:
+
+![Screenshot of projects list in GlotPress](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Glotpress%20-%20languages%20list_en.png+)
+
+https://github.com/WordPress/contributor-day-handbook/blob/master/images/Glotpress%20-%20languages%20list_en.png
+
     
-3.  The translations are organized in projects and sub-projects so that you could have, for instance, the WordPress project and a sub-project for each version of the software. If a project hasn’t been completely translated (listed at 100%), you can find the untranslated strings and suggest translations.
+4.  The translations are organized in projects and sub-projects so that you could have, for instance, the WordPress project and a sub-project for each version of the software. If a project hasn’t been completely translated (listed at 100%), you can find the untranslated strings and suggest translations:
+
+![Screenshot of adding a new translation in GlotPress](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Glotpress%20-%20add%20new%20translation._en.png+)
     
-4.  Before your translations become part of WordPress, they will need to be approved by a [translation editor](https://make.wordpress.org/polyglots/handbook/glossary/#general-translation-editor) – a trusted member of the polyglots community. Translation editors are also able to appoint new translation editors.
+5.  Before your translations become part of WordPress, they will need to be approved by a [translation editor](https://make.wordpress.org/polyglots/handbook/glossary/#general-translation-editor) – a trusted member of the polyglots community. Translation editors are also able to appoint new translation editors.
     
 If this is your first time translating for the WordPress project, we recommend you start by translating WordPress core, the foundations of the WordPress software that millions of people use every day as the base for their websites. However, if you would like to help with plugins and themes, it would be easier to start on a product you already use.
 
