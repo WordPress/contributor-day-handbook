@@ -1,11 +1,14 @@
+### What is Trello?
+
 Trello is a free project management tool used by many WordPress.org teams to organise their contribution.
 While every team has different approached, in this guide you will find basic instructions about the app to get you started.
 
 Trello is based on Kanban boards, a way to show how work proceeds, with each column representing a stage of the overall process.
 At the top level you have the organisation, then you have teams, boards and cards. 
 
-Signup
-======
+### Signup
+
+
 To use it you need to signup for it: https://trello.com/signup
 You can use a combination of username/password or use your Google account. 
 
