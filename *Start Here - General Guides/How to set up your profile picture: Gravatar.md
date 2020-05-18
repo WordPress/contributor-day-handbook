@@ -13,7 +13,7 @@ If you do not have a WordPress.com account already, follow the below steps to si
     
 2.  Click on the blue button ‘Create Your Own Gravatar’ and enter your details: Email address, Username, Password. Then click ‘Create Your Account’ to save your details.
     
-![Screenshot of Gravatar signup page](update link)
+![Screenshot of Gravatar signup page](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Gravatar%20Sign%20Up%20-%20Create%20WPcom%20Account_EN.png)
 
 3.  You will receive an email asking you to confirm your email address. The email will come from WordPress.com, not Gravatar. Please note that you won't be able to use Gravatar until you click on the link in that email.
     
@@ -28,7 +28,7 @@ If you do not have a WordPress.com account already, follow the below steps to si
 
 You can add your Gravatar profile picture to as many email addresses as you like. To do this, sign into gravatar.com. Then on the home page, under your pictures, click on ‘Add email address’.
 
-![Screenshot of the Manage Gravatars page, where you can add email addresses](update link)
+![Screenshot of the Manage Gravatars page, where you can add email addresses](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Gravatar%20-%20Add%20Email%20Address%20en.png)
 
 Every time you add an email address you will have to confirm it via the email you receive from WordPress.com.
 
@@ -43,7 +43,7 @@ You can return to the home page at any time by clicking on ‘My Gravatars’ on
     
 3.  Click ‘Add a new image’
     
-![Screenshot of the Manage Gravatars page, where you can add upload your profile picture](update link) 
+![Screenshot of the Manage Gravatars page, where you can add upload your profile picture](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Gravatar%20-%20Add%20New%20Image_en.png) 
 
 4.  Select the source of your image. You can upload an image from your computer, enter a URL if your image is hosted elsewhere online, select an image you have previously uploaded or use your webcam to take a new photo. Click ‘Next’ to continue.
     
