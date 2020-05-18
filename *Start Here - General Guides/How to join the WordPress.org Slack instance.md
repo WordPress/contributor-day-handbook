@@ -21,7 +21,7 @@ The email address associated with your Slack username will be: [wporgusername]@c
 4. Check your inbox for an invitation link to Slack. Click ‘Join Now’ in the email and fill in your First Name (the name that will be displayed - this can also be changed later) and enter a Password: 
   ![Screenshot of account setup page for joining the Making WordPress Slack instance](https://github.com/WordPress/contributor-day-handbook/blob/master/images/slack%20account%20creation_EN.png)
 
-5. The welcome screen includes a list of things you can do to set your account up: [Screenshot of Slack WordPress.org instance welcome screen](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Slack%20Welcome%20Screen_en.png)
+5. The welcome screen includes a list of things you can do to set your account up: ![Screenshot of Slack WordPress.org instance welcome screen](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Slack%20Welcome%20Screen_en.png)
 6. (Optional) Click on ‘Channels’ in the navigation column on the left. Find the team channel you want to join and click on the name to enter it (for instance, the documentation team and can be found in the #docs channel)
 7. It can be helpful to update your Slack profile by adding some details about your WordPress interests and timezone to help team members welcome and connect with you. To do this:
 * Click on your name in the top left corner of the Slack screen
