@@ -16,3 +16,9 @@ Choose a strong password for your account when prompted. You can fill in optiona
 6. Click the ‘Get Involved’ link and explore how you can help the open source, global WordPress project. 
 7. (Optional) click your username on the top right corner to access and edit your profile information.
 
+### Need more help?
+Check out the video guide on how to set up WordPress.org and Slack accounts for the Make WordPress channel:
+
+[![Set up WordPress.org and Slack accounts for the Make WordPress channel - English version](https://i.ytimg.com/vi/XjO7sGhNJ9o/maxresdefault.jpg)](//www.youtube.com/watch?v=XjO7sGhNJ9o "Set up a WordPress.org and Slack account for the Make WordPress Channel - English version")
+
+
