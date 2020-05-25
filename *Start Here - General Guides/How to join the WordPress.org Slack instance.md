@@ -39,3 +39,8 @@ You can edit which notifications you receive by changing your preferences. To do
   ![Screenshot of Slack preferences page](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Slack%20Preferences%20Setting_en.png)
 
 You can find more Slack tutorials and guides here: https://slack.com/help/
+
+### Need more help?
+
+Check out the video guide on how to set up WordPress.org and Slack accounts for the Make WordPress channel:
+[![Set up WordPress.org and Slack accounts for the Make WordPress Channel - English version](https://i.ytimg.com/vi/XjO7sGhNJ9o/maxresdefault.jpg)](//www.youtube.com/watch?v=XjO7sGhNJ9o "Set up a WordPress.org and Slack account for the Make WordPress Channel - English version")
