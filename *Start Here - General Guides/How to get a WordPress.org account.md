@@ -25,6 +25,8 @@ Check out the video guide on how to set up WordPress.org and Slack accounts for 
 
 [Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - language version: German](//www.youtube.com/watch?v=XpQVHvFji6c "Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - German")
 
+[Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - language version: Gujarati](//www.youtube.com/watch?v=y6N0-On6fVc "Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - Gujarati")
+
 [Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - language version: Russian](//www.youtube.com/watch?v=liBPJEyIe8k "Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - Russian")
 
 [Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - language version: Spanish (Latin America)](//www.youtube.com/watch?v=zjGzfVeTzvA "Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - Spanish (Latin America)")
