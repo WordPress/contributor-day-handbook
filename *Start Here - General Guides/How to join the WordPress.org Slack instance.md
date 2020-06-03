@@ -43,4 +43,14 @@ You can find more Slack tutorials and guides here: https://slack.com/help/
 ### Need more help?
 
 Check out the video guide on how to set up WordPress.org and Slack accounts for the Make WordPress channel:
+ 
+#### English version
 [![Set up WordPress.org and Slack accounts for the Make WordPress Channel - English version](https://i.ytimg.com/vi/XjO7sGhNJ9o/maxresdefault.jpg)](//www.youtube.com/watch?v=XjO7sGhNJ9o "Set up a WordPress.org and Slack account for the Make WordPress Channel - English version")
+#### Russian version
+[![Set up WordPress.org and Slack accounts for the Make WordPress Channel - Russian version](https://i.ytimg.com/vi/liBPJEyIe8k/maxresdefault.jpg)](//www.youtube.com/watch?v=liBPJEyIe8k "Set up a WordPress.org and Slack account for the Make WordPress Channel - Russian version")
+#### Dutch version
+[![Set up WordPress.org and Slack accounts for the Make WordPress Channel - Dutch version](https://i.ytimg.com/vi/T0vuo8tFeJg/maxresdefault.jpg)](//www.youtube.com/watch?v=T0vuo8tFeJg "Set up a WordPress.org and Slack account for the Make WordPress Channel - Dutch version")
+#### Bangla version
+[![Set up WordPress.org and Slack accounts for the Make WordPress Channel - Bangla version](https://i.ytimg.com/vi/Cldxz9ihia0/maxresdefault.jpg)](//www.youtube.com/watch?v=Cldxz9ihia0 "Set up a WordPress.org and Slack account for the Make WordPress Channel - Bangla version")
+#### Gujarati version
+[![Set up WordPress.org and Slack accounts for the Make WordPress Channel - Gujarati version](https://i.ytimg.com/vi/y6N0-On6fVc/maxresdefault.jpg)](//www.youtube.com/watch?v=y6N0-On6fVc "Set up a WordPress.org and Slack account for the Make WordPress Channel - Gujarati version")
