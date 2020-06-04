@@ -38,7 +38,7 @@ There are three main sections you can see in any given card.
 2. Activity - includes comments on that card and active conversations between the team
 3. Add attachment - area on the right of the card where documents, images and links can be added
 
-![Screenshot of a Trello Card](add link here)
+![Screenshot of a Trello Card](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Trello%20card_original_en.png)
 
 ### Collaborating with Trello
 
