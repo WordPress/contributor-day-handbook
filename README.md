@@ -10,3 +10,4 @@ Please feel free to add your pull requests, issues, comments and translations!
 * [How to work with TRAC](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/How%20to%20work%20with%20TRAC.md)
 * [An Overview Of Trello](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/An%20overview%20of%20Trello.md)
 * [Collaborating with Google tools](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/Collaborating%20with%20Google%20tools.md)
+* [How to Set Up VVV for Contributing to WordPress](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/How%20to%20setup%20VVV.md)
