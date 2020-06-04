@@ -25,19 +25,19 @@ To create a new Google account
 2.  Click on the sign-in option, usually found in the top right hand corner of the browser window.
     
 
-![](https://lh4.googleusercontent.com/o32Qm58fa0LIJvYjQtJFSo0YmC4fXWxgF0qMeYWAR_rsBlYvp7M1VWf8D_YFd7aqjeaws_QVHaU4B3ejwldCCIqJZZJdaUhYxk1GPDFWhDily6xmqLUcFfKomNyTJHfzCYu9J0Cr)
+![Google - Sign In button](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Sign%20In%20_en.png)
 
-![](https://lh3.googleusercontent.com/L7A8IqD28_ggrdF0yN1dPnSJo5FSTycQLRPiHaf8T_BYt4UZZg-ulm3w8TcGoI0AY2HAupuYSnAQUDwF_whvra5u6m6LorFDilBJObUS8ZaqHP9YrDZDVI3ctl3JvlPvFS6mI35Y)
+![Google - Sign In screen](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Sign%20In%202_en.png)
 
 3.  You can also create an account following the button
     
 
-![](https://lh6.googleusercontent.com/g-Hi-Zw-t21wtHEfUu4nMJqwwPaD5WKhw45_U82KYbieJCSq61osadMAGy-pNHX0DHcGlYJa1ASBGjxEIdeZ8zLosqN9dGa3IBX4UXroLSFdqFScmn5bcJhR5-D7gKsEduSqPd--)
+![Google - Create Account Screen](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Create%20Account_en.png)
 
 4.  You will need to enter your First Name and Last name including an unique username with password which will also be the Gmail address for that account.
     
 
-![](https://lh5.googleusercontent.com/hJB6bFFb878ybM5p6Z-3fIHx1-P74vIhyZyTpGa4jCxEOMpMyUy1WIhw4vxDxF_WG8t-evhOl6y5XmGYxZJ5KA0aGmljYU_P-b91BorQaGCytuah0jfIHvBfmYRZwCdCJ1H6cogf)
+![Google - Create Account Screen 2](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Create%20Account%202_en.png)
 
 5.  You can sign into your account In the top right corner of a Google browser window, enter your username and your password.
     
@@ -100,27 +100,27 @@ Also, make sure that you do not accept changes and/or resolve comments if you ar
 1.  Navigate to the top-right corner of the document’s toolbar, just below the ‘Share’ button.
     
 
-![](https://lh3.googleusercontent.com/oscTMGpugJIgjKns6PbrVN0rTZEync5gqnnHb4YxUt-5CJDCUeeafL61eFho_QTxmBf82J1x1YVEdaUDZXkAo0MWM0aGwVX7m4O1a6L28qFc8hJipMz0rfblZTZw0ZIkXE-F523F)
+![Google Docs - Share Button](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Share%20Button_en.png)
 
 2.  Under the options in the drop-down menu, choose the middle option ‘Suggesting’.
     
 
-![](https://lh3.googleusercontent.com/KkZAxn3FqNwT1d2_Cy7Sz0dlVugUhT9EIHfBMViiKkyoOzdxXLfFfYgg9QU9ert3WlNwpsPouNPdhsOFLYjVM5p6fAouxD1yOOnGemvPlQErr1LOAD5K0vW77MSmDnkZm_C_e306)
+![Google Docs - Activating the Suggesting editing mode](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Edit%20Document%201_en.png)
 
 3.  To check if you are using the right mode, just check which icon appears in the toolbar. When suggestion mode is activated, the pen icon seen in the previous two screenshots will be replaced with the comment box & pen icon (see screenshot below).
     
 
-![](https://lh3.googleusercontent.com/2buK5xGcTBI1E-OmWhjlZh-1t0V8APC9N6F4rCn_QritEQnGeIjdwd-MKt3cIJKEZeV5Id1AOufVqbx_4kbF66tNnxwYIKQTz6VKG-5bgTbISJGhOwd4AsVEy8dtTBxjrPRt5qoW)
+![Google Docs - Editing mode button](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Edit%20Document%202_en.png)
 
   
 
 Writing in suggestion mode looks a little bit different than with regular editing. Note also the comment box which appears to the right.
 
-![](https://lh4.googleusercontent.com/vZVM-riyRxUwgBVnFufD2PiKf_9CJ6pJvlhyFr7hHZYBKe98aInFefKaGkXSX7GHtayKHg1r3oAQH8Zo2XEh3E1500BmvdnbwTtylzHIMdFFFC6Uf8pg33TBFgZKaH44qdXll5Rh)
+![Google Docs - What writing in suggesting mode looks like](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Edit%20Document%203_en.png)
 
   
 
-![](https://lh6.googleusercontent.com/5oTmjLLwUxiI6pNn_BwT8R-n_AR5uhbOunG2LL3OOyKl3FrfuvUYymw1Hn_7obdcIf-QbH8T7Aqco_rxK804XaqoSs0PsU2G7wKBIL2DwKL1UJou_i_o7x07bSRM95uqsvzl51zZ)
+![oogle Docs - What writing in suggesting mode looks like 2](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Edit%20Document%204_en.jpg)
 
   
 
@@ -156,6 +156,6 @@ Check with your team where images should be stored and the sizes for use. Images
 -   To insert an .gif file, click ‘By URL’ and add the full web address.
     
 
-![](https://lh4.googleusercontent.com/w4NHYQ35JZMrqXCnk_4ZsgFxwaum8S3tSly0cP0y0VJSXA4VMvyP9_9zsloxY8GoeVcJBCzMxKTdpc_8KEGIlZkzEh9Wrf_1hip7pLS8FBsdoHFagbYry0fy5CfQIqNNlklhZ5mN)
+![Google Docs - Add image to document](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Add%20Image_en.png)
 
 -   Additionally, images can also be inserted by dragging and dropping from a folder on your computer, or by copying them and pasting them in the document.
