@@ -37,4 +37,4 @@ Translated versions are being adding below as available:
 
 [Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - language version: Spanish (Latin America)](//www.youtube.com/watch?v=zjGzfVeTzvA "Video guide to set up a WordPress.org and Slack account for the Make WordPress Channel - Spanish (Latin America)")
 
-More videos in other languages at https://www.youtube.com/playlist?list=PLCVEqsAbLffcS1Rx-COZ5CZBOmXZJEe6k
+[More videos in other languages] (//www.youtube.com/playlist?list=PLCVEqsAbLffcS1Rx-COZ5CZBOmXZJEe6k "Playlist for videos to set up a WordPress.org and Slack account for the Make WordPress Channel")
