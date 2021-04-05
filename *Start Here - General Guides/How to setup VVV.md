@@ -30,7 +30,7 @@ If you don’t have a Contributor Day USB stick available, follow the instructio
 ## Start up VVV
 
 1. In the command line/terminal, navigate to the directory where you installed VVV. You can sometimes drag and drop the folder on to the terminal as a fast way to type the path of the directory. **If you are on Windows this must be run with elevated administrator privileges**.
-2. Install local vagrant plugins if you have not already by running this command: `vagrant plugin instal --local`
+2. Install local vagrant plugins if you have not already by running this command: `vagrant plugin install --local`
 3. Start VVV by running command `vagrant up`, the first time you do this will take a while
 4. When complete, you should see a VVV logo with a happy teddy bear.
 5. Visit `http://vvv.test` in your browser. You should see a listing of all the sites VVV created, as well as links to other administration-related tools.
