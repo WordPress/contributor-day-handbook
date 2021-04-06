@@ -63,7 +63,7 @@ You can log out when you are not collaborating. You can also change accounts bac
 
 # Google Docs
 
-Google Docs is an online world processor which we use in the WordProcessor community to collaborate on materials. You will be able to use it for free to collaborate in real time or asynchronously.
+Google Docs is an online wordprocessor which we use in the WordPress community to collaborate on materials. You will be able to use it for free to collaborate in real time or asynchronously.
 
 ### What devices can I use to contribute to Google Docs
 
