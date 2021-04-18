@@ -1,7 +1,8 @@
 ## WordPress.org アカウントを取得する方法
 
 1. https://login.wordpress.org/register にアクセスしてください。
-2. Enter your preferred username and add your email address. We recommend that you use the same username as your Slack user ID for ease. However, you can use any username you like:
+2. ご希望のユーザー名を入力し、メールアドレスを追加してください。 簡単にするために、SlackユーザーIDと同じユーザー名を使用することをお勧めします。 
+ただし、任意のユーザー名も使用できます。
 
   ![screenshot of WordPress.org new account setup page one: enter a username and password](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Create%20wordpress-org%20account%2001_EN.png)
 
