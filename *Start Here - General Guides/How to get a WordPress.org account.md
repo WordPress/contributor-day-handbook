@@ -7,15 +7,15 @@
   ![screenshot of WordPress.org new account setup page one: enter a username and password](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Create%20wordpress-org%20account%2001_EN.png)
 
 3. WordPress からの更新や重要なお知らせを受け取りたい場合は、チェックボックスをオンにして、WordPress メーリングリストに登録してください。
-4. (Optional) A box with additional details will appear. You can fill the details in or not - it’s up to you! This box will also appear after Step 6: 
+4. オプション）追加の詳細が記載されたボックスが表示されます。 詳細を記入するかどうかはあなた次第です！ このボックスは、手順6の後にも表示されます。
 
   ![screenshot of WordPress.org new account setup page two: enter additional details](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Create_wordpressorg%20account%2002_EN.png)
 
 
-5. Go to your email inbox and check for an email from WordPress.org. Click the link inside to validate your account.
-Choose a strong password for your account when prompted. You can fill in optional, extra details (also shown in step 4). 
-6. Click the ‘Get Involved’ link and explore how you can help the open source, global WordPress project. 
-7. (Optional) click your username on the top right corner to access and edit your profile information.
+5. メールの受信トレイに移動し、WordPress.org からのメールを確認します。 内部のリンクをクリックして、アカウントを検証します。
+プロンプトが表示されたら、アカウントの強力なパスワードを選択します。 オプションの追加の詳細を入力できます（ステップ4にも示されています）。
+6. [参加する]リンクをクリックして探索します。グローバルのオープンソースプロジェクト WordPress をどのように支援できるか探しましょう。 
+7. （オプション）プロファイル情報にアクセスして編集するには、右上隅にあるユーザー名をクリックします。
 
 ### Need more help?
 Check out the video guide on how to set up WordPress.org and Slack accounts for the Make WordPress channel:
