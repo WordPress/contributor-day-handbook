@@ -6,7 +6,7 @@
 
   ![screenshot of WordPress.org new account setup page one: enter a username and password](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Create%20wordpress-org%20account%2001_EN.png)
 
-3. Tick the box to subscribe to the WordPress mailing list if you would like to receive updates and important announcements from WordPress.
+3. WordPress からの更新や重要なお知らせを受け取りたい場合は、チェックボックスをオンにして、WordPress メーリングリストに登録してください。
 4. (Optional) A box with additional details will appear. You can fill the details in or not - it’s up to you! This box will also appear after Step 6: 
 
   ![screenshot of WordPress.org new account setup page two: enter additional details](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Create_wordpressorg%20account%2002_EN.png)
