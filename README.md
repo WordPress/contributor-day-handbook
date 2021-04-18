@@ -1,6 +1,7 @@
 # コントリビューター・ガイド
 
-In this section you will find a series of onboarding materials for contributors: from guides and videos to setup a WordPress.org account and join its Slack, to how to use commonly used tools, to specific onboarding guides for each of the make.wordpress.org teams. We are also adding links to getting started information for each team. Please feel free to add your pull requests, issues, comments and translations!
+このセクションでは、コントリビューター向けの一連のオンボーディング資料を紹介します。
+ガイドやビデオから WordPress.org アカウントを設定して、 WordSlack に参加する方法、一般的に使用されるツールの使用方法、各 make.wordpress.org チームの特定のオンボーディングガイドまで。 また、各チームの開始情報へのリンクを追加しています。 プルリクエスト、問題、コメント、翻訳を自由に追加してください！
 
 * [How to get a WordPress.org account](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/How%20to%20get%20a%20WordPress.org%20account.md)
 * [How to join the WordPress.org Slack instance](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/How%20to%20join%20the%20WordPress.org%20Slack%20instance.md)
