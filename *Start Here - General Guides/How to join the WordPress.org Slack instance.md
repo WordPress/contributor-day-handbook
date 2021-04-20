@@ -1,7 +1,7 @@
 
 # WordPress.org Slack インスタンスに参加する方法
 
-## What is Slack?
+## Slack とは何ですか？
 
 Slack is an online collaborative communication tool, which is used by the teams that make WordPress.org. You can access it on a web browser or through the Slack app. It is free to join. 
 
