@@ -3,9 +3,9 @@
 
 ## Slack とは何ですか？
 
-Slack is an online collaborative communication tool, which is used by the teams that make WordPress.org. You can access it on a web browser or through the Slack app. It is free to join. 
+Slackは、WordPress.orgを作成するチームが使用するオンラインのコラボレーションコミュニケーションツールです。 WebブラウザまたはSlackアプリからアクセスできます。 参加は無料です。
 
-Here is all the information you will need to get started:
+開始するために必要なすべての情報は次のとおりです。
 
 ## How do I join?
 
