@@ -1,5 +1,5 @@
 
-# How to join the WordPress.org Slack instance
+# WordPress.org Slack インスタンスに参加する方法
 
 ## What is Slack?
 
