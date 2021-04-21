@@ -7,7 +7,7 @@ Slackは、WordPress.orgを作成するチームが使用するオンライン�
 
 開始するために必要なすべての情報は次のとおりです。
 
-## How do I join?
+## どうすれば参加できますか？
 
 Create a WordPress Slack account:
 1. Visit make.wordpress.org/chat/
