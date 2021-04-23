@@ -1,3 +1,1 @@
-In this guide you will learn how to use GitHub for creating content to be shared and edited by many people.
-With GitHub you can keep track of changes, add suggestions and create copies to be translated and adapted to your team/community needs.
-Think of it as supercharged Google Documents (for which we also have a guide!) 
+このガイドでは、多くの人が共有・編集するコンテンツを作成するためのGitHubの使い方を学びます。GitHubを使えば、変更点を記録したり、提案を追加したり、コピーを作成してチームやコミュニティのニーズに合わせて翻訳したりすることができます。Googleドキュメントをパワーアップさせたようなものだと思ってください（こちらのガイドもあります！）。
