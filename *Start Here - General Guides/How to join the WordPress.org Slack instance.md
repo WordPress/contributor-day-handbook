@@ -24,8 +24,8 @@ Slackユーザー名に関連付けられているメールアドレスは[wporg
 4.受信トレイでSlackへの招待リンクを確認してください。 メールの[今すぐ参加]をクリックして、名（表示される名前-これは後で変更することもできます）を入力し、パスワードを入力します。
   ![Screenshot of account setup page for joining the Making WordPress Slack instance](https://github.com/WordPress/contributor-day-handbook/blob/master/images/slack%20account%20creation_EN.png)
 
-5. The welcome screen includes a list of things you can do to set your account up: ![Screenshot of Slack WordPress.org instance welcome screen](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Slack%20Welcome%20Screen_en.png)
-6. (Optional) Click on ‘Channels’ in the navigation column on the left. Find the team channel you want to join and click on the name to enter it (for instance, the documentation team and can be found in the #docs channel)
+5. ようこそ画面には、アカウントを設定するためにできることのリストが含まれています。 ![Screenshot of Slack WordPress.org instance welcome screen](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Slack%20Welcome%20Screen_en.png)
+6. （オプション）左側のナビゲーション列にある[チャンネル]をクリックします。参加するチームチャネルを見つけ、名前をクリックして入力します（たとえば、ドキュメントチームであり、＃docsチャネルにあります）。
 7. It can be helpful to update your Slack profile by adding some details about your WordPress interests and timezone to help team members welcome and connect with you. To do this:
 * Click on your name in the top left corner of the Slack screen
 * Choose ‘Profile and Account’
