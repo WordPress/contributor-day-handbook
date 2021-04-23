@@ -12,7 +12,7 @@ Slackは、WordPress.orgを作成するチームが使用するオンライン�
 WordPress Slack アカウントを作成します。
 1. make.wordpress.org/chat/にアクセスします。
 2. WordPress.orgアカウントをまだお持ちでない場合は、[このガイド](https://github.com/WordPress/contributor-day-handbook/blob/master/*Start%20Here%20-%20General%20Guides/How%20to%20get%20a%20WordPress.org%20account.md)に従ってアカウントを作成してください。 
-3. After logging in, scroll to “Join the WordPress team on Slack” and enter either your email address or choose the option ‘I understand, please send me an invite.’ : 
+3.ログイン後、[SlackでWordPressチームに参加する]までスクロールして、メールアドレスを入力するか、[わかりました。招待状を送ってください]オプションを選択してください。：
   ![Screenshot of instructions on how to join the WordPress Slack instance](https://github.com/WordPress/contributor-day-handbook/blob/master/images/slack%20invitation%20link_en.png)
 Note: we recommend that you use the same username for Slack as you use for WordPress.org, though it is possible to use a different one.
 
