@@ -26,14 +26,15 @@ Slackユーザー名に関連付けられているメールアドレスは[wporg
 
 5. ようこそ画面には、アカウントを設定するためにできることのリストが含まれています。 ![Screenshot of Slack WordPress.org instance welcome screen](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Slack%20Welcome%20Screen_en.png)
 6. （オプション）左側のナビゲーション列にある[チャンネル]をクリックします。参加するチームチャネルを見つけ、名前をクリックして入力します（たとえば、ドキュメントチームであり、＃docsチャネルにあります）。
-7. It can be helpful to update your Slack profile by adding some details about your WordPress interests and timezone to help team members welcome and connect with you. To do this:
-* Click on your name in the top left corner of the Slack screen
-* Choose ‘Profile and Account’
-* Choose ‘Edit Profile’
-* Upload a photo to help people recognize you. 
-8. Welcome to the WordPress.org community on Slack.
+7. Slackのプロフィールを更新して、WordPress に興味を持っていることやタイムゾーンなどの情報を追加しておくと、チームメンバーがあなたを歓迎し、あなたとつながることができるようになります。これを行うには
+* Slack画面の左上にある自分の名前をクリックします。
+* Profile and Account(プロフィールとアカウント)を選択します。
+* Edit Profile（プロフィールの編集）を選択します。
+* 写真をアップロードして、あなたを認識してもらいます。
 
-## Staying connected on Slack
+8. Slack上のWordPress.orgコミュニティへようこそ。
+
+## Slack での接続を維持する
 You can set your status under ‘Profile’ so others know if you are available.
 
 Slack notifications keep you informed about messages that might be of interest to you. By default, you will receive notifications when you receive a direct message, when someone @-mentions you in a channel, or when someone @-mentions a channel you are in.   
