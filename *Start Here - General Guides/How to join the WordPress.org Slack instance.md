@@ -46,7 +46,7 @@ Slackの通知では、興味のありそうなメッセージを知ることが
 
 ### もっと助けが必要ですか？
 
-Make WordPress チャンネルで WordPress.org と Slack のアカウントを設定する方法についてのビデオガイドをご覧くださ:
+Make WordPress チャンネルで WordPress.org と Slack のアカウントを設定する方法についてのビデオガイドをご覧ください:
  
 #### English version
 [![Set up WordPress.org and Slack accounts for the Make WordPress Channel - English version](https://i.ytimg.com/vi/XjO7sGhNJ9o/maxresdefault.jpg)](//www.youtube.com/watch?v=XjO7sGhNJ9o "Set up a WordPress.org and Slack account for the Make WordPress Channel - English version")
