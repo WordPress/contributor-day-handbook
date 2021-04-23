@@ -37,16 +37,16 @@ Slackユーザー名に関連付けられているメールアドレスは[wporg
 ## Slack での接続を維持する
 You can set your status under ‘Profile’ so others know if you are available.
 
-Slack notifications keep you informed about messages that might be of interest to you. By default, you will receive notifications when you receive a direct message, when someone @-mentions you in a channel, or when someone @-mentions a channel you are in.   
+Slackの通知では、興味のありそうなメッセージを知ることができます。デフォルトでは、ダイレクトメッセージを受信したとき、チャンネルで誰かが自分を@メンションしたとき、または自分が参加しているチャンネルで誰かが@メンションしたときに通知が届きます。 
 
-You can edit which notifications you receive by changing your preferences. To do this, click on the name of the Slack instance in the top left corner of the page and click on ‘Preferences’:
+環境設定を変更することで、どの通知を受け取るかを編集することができます。これを行うには、ページの左上にあるSlackインスタンスの名前をクリックし、「Preferences」をクリックします。:
   ![Screenshot of Slack preferences page](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Slack%20Preferences%20Setting_en.png)
 
-You can find more Slack tutorials and guides here: https://slack.com/help/
+その他のSlackのチュートリアルやガイドはこちらからご覧いただけます: https://slack.com/help/
 
-### Need more help?
+### もっと助けが必要ですか？
 
-Check out the video guide on how to set up WordPress.org and Slack accounts for the Make WordPress channel:
+Make WordPress チャンネルで WordPress.org と Slack のアカウントを設定する方法についてのビデオガイドをご覧くださ:
  
 #### English version
 [![Set up WordPress.org and Slack accounts for the Make WordPress Channel - English version](https://i.ytimg.com/vi/XjO7sGhNJ9o/maxresdefault.jpg)](//www.youtube.com/watch?v=XjO7sGhNJ9o "Set up a WordPress.org and Slack account for the Make WordPress Channel - English version")
