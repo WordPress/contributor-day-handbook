@@ -19,7 +19,7 @@ WordPress Slack アカウントを作成します。
   
 注：Slackには、WordPress.orgで使用するのと同じユーザー名を使用することをお勧めしますが、別のユーザー名を使用することもできます。
 
-The email address associated with your Slack username will be: [wporgusername]@chat.wordpress.org. Make a note of this as it will be important if you forget your password.
+Slackユーザー名に関連付けられているメールアドレスは[wporgusername] @ chat.wordpress.orgになります。 パスワードを忘れた場合に重要になるため、これをメモしてください。
 
 4. Check your inbox for an invitation link to Slack. Click ‘Join Now’ in the email and fill in your First Name (the name that will be displayed - this can also be changed later) and enter a Password: 
   ![Screenshot of account setup page for joining the Making WordPress Slack instance](https://github.com/WordPress/contributor-day-handbook/blob/master/images/slack%20account%20creation_EN.png)
