@@ -17,8 +17,9 @@
 6. [参加する]リンクをクリックして探索します。グローバルのオープンソースプロジェクト WordPress をどのように支援できるか探しましょう。 
 7. （オプション）プロファイル情報にアクセスして編集するには、右上隅にあるユーザー名をクリックします。
 
-### Need more help?
-Check out the video guide on how to set up WordPress.org and Slack accounts for the Make WordPress channel:
+### もっと助けが必要ですか？
+
+Make WordPress チャンネルで WordPress.org と Slack のアカウントを設定する方法についてのビデオガイドをご覧ください:
 
 [![Video guide on setting up a WordPress.org and Slack accounts for the Make WordPress channel - language: English](https://i.ytimg.com/vi/XjO7sGhNJ9o/maxresdefault.jpg)](//www.youtube.com/watch?v=XjO7sGhNJ9o "Set up a WordPress.org and Slack account for the Make WordPress Channel - English-language version")
 
