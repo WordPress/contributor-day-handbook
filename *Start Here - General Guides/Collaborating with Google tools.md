@@ -1,8 +1,8 @@
-## Collaborating with Google tools
+## Google ツールとのコラボレーション
 
   
 
-We have a variety of online collaboration tools in the WordPress community. For example, while collaborating together on copy, proposals, documentation or articles, we use Google Docs and Sheets.
+WordPressコミュニティにはさまざまなオンラインコラボレーションツールがあります。 たとえば、コピー、提案、ドキュメント、記事で共同作業を行う場合、Googleドキュメントとスプレッドシートを使用します。
 
   
 
