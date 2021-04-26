@@ -6,7 +6,7 @@ WordPressコミュニティにはさまざまなオンラインコラボレー�
 
   
 
-This video explains how Google Docs Drive works in an easy way: [https://www.youtube.com/watch?v=eRqUE6IHTEA](https://www.youtube.com/watch?v=eRqUE6IHTEA)
+このビデオでは、Googleドキュメントドライブがどのように機能するかを簡単に説明しています: [https://www.youtube.com/watch?v=eRqUE6IHTEA](https://www.youtube.com/watch?v=eRqUE6IHTEA)
 
 ## What will you need?
 
