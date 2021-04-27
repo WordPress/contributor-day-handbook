@@ -8,7 +8,7 @@ WordPressコミュニティにはさまざまなオンラインコラボレー�
 
 このビデオでは、Googleドキュメントドライブがどのように機能するかを簡単に説明しています: [https://www.youtube.com/watch?v=eRqUE6IHTEA](https://www.youtube.com/watch?v=eRqUE6IHTEA)
 
-## What will you need?
+## 何が必要ですか？
 
 A [Google](http://www.google.com/) account. This could be one you use in other environments or you could set up a new account to use just for the WordPress environment. The account’s username and profile picture will be displayed on documents you comment on and this may appear in search engines. For some contributors they find it more suitable to have a specific Google account just for the project, particularly if their other Google account is part of their work or organisational tools.
 
