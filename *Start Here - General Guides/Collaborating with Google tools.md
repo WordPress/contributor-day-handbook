@@ -10,7 +10,7 @@ WordPressコミュニティにはさまざまなオンラインコラボレー�
 
 ## 何が必要ですか？
 
-A [Google](http://www.google.com/) account. This could be one you use in other environments or you could set up a new account to use just for the WordPress environment. The account’s username and profile picture will be displayed on documents you comment on and this may appear in search engines. For some contributors they find it more suitable to have a specific Google account just for the project, particularly if their other Google account is part of their work or organisational tools.
+Googleアカウント。 これは、他の環境で使用するものでも、WordPress環境でのみ使用する新しいアカウントを設定することもできます。 アカウントのユーザー名とプロフィール写真は、コメントしたドキュメントに表示され、検索エンジンに表示される場合があります。 一部の寄稿者にとって、特に他のGoogleアカウントが仕事や組織のツールの一部である場合は、プロジェクト専用の特定のGoogleアカウントを持つ方が適していると感じています。
 
 ## How do I set up a Google account?
 
