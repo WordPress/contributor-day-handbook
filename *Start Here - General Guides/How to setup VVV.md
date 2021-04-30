@@ -20,7 +20,7 @@ During Contributor Days there might be USB sticks available containing the lates
 
 ## Installing VVV without a Contributor Day USB stick
 
-If you don’t have a Contributor Day USB stick available, follow the official [installation instructions](https://varyingvagrantvagrants.org/docs/en-US/installation) on the VVV site.
+If you don’t have a Contributor Day USB stick available, follow the official [installation instructions](https://varyingvagrantvagrants.org/docs/en-US/installation/) on the VVV site.
 
 ## Enabling Trunk and the WordPress Meta Environment
 
