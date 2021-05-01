@@ -12,7 +12,7 @@ WordPressコミュニティにはさまざまなオンラインコラボレー�
 
 Googleアカウント。 これは、他の環境で使用するものでも、WordPress環境でのみ使用する新しいアカウントを設定することもできます。 アカウントのユーザー名とプロフィール写真は、コメントしたドキュメントに表示され、検索エンジンに表示される場合があります。 一部の寄稿者にとって、特に他のGoogleアカウントが仕事や組織のツールの一部である場合は、プロジェクト専用の特定のGoogleアカウントを持つ方が適していると感じています。
 
-## How do I set up a Google account?
+## Googleアカウントを設定するにはどうすればよいですか？
 
 If you have a Gmail email account, this is also your Google account.
 
