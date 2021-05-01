@@ -14,11 +14,11 @@ Googleアカウント。 これは、他の環境で使用するものでも、W
 
 ## Googleアカウントを設定するにはどうすればよいですか？
 
-If you have a Gmail email account, this is also your Google account.
+Gmailのメールアカウントをお持ちの場合、これはGoogleアカウントでもあります。
 
   
 
-To create a new Google account
+新しいGoogleアカウントを作成するには
 
 1.  Visit [https://google.com](https://google.com/)
     
