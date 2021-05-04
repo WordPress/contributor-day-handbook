@@ -20,7 +20,7 @@ Gmailのメールアカウントをお持ちの場合、これはGoogleアカウ
 
 新しいGoogleアカウントを作成するには
 
-1.  Visit [https://google.com](https://google.com/)
+1.   [https://google.com](https://google.com/)にアクセスします。
     
 2.  Click on the sign-in option, usually found in the top right hand corner of the browser window.
     
