@@ -29,7 +29,7 @@ Gmailのメールアカウントをお持ちの場合、これはGoogleアカウ
 
 ![Google - Sign In screen](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Sign%20In%202_en.png)
 
-3.  You can also create an account following the button
+3.  ボタンの後にアカウントを作成することもできます。
     
 
 ![Google - Create Account Screen](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Create%20Account_en.png)
