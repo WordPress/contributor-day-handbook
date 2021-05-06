@@ -22,7 +22,7 @@ Gmailのメールアカウントをお持ちの場合、これはGoogleアカウ
 
 1.   [https://google.com](https://google.com/)にアクセスします。
     
-2.  Click on the sign-in option, usually found in the top right hand corner of the browser window.
+2.  通常、ブラウザウィンドウの右上隅にあるサインインオプションをクリックします。
     
 
 ![Google - Sign In button](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Sign%20In%20_en.png)
