@@ -46,9 +46,9 @@ Gmailのメールアカウントをお持ちの場合、これはGoogleアカウ
 7.  パスワードを忘れた場合や、将来プライバシー設定を更新したい場合に役立つ、復旧用の電子メールアドレスと電話番号を設定できます。
     
 
-### Manage your Google account settings
+### Googleアカウントの設定を管理する
 
-You can check the personal information your account shares in settings.
+アカウントが共有する個人情報は設定で確認できます。
 
 [https://myaccount.google.com/](https://myaccount.google.com/)
 
