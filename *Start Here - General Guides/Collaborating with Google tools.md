@@ -39,9 +39,9 @@ Gmailのメールアカウントをお持ちの場合、これはGoogleアカウ
 
 ![Google - Create Account Screen 2](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Create%20Account%202_en.png)
 
-5.  You can sign into your account In the top right corner of a Google browser window, enter your username and your password.
+5.  アカウントにサインインできます。Googleブラウザウィンドウの右上隅に、ユーザー名とパスワードを入力します。
     
-6.  You can also sign-out of the Google account this way.
+6.  この方法でGoogleアカウントからサインアウトすることもできます。
     
 7.  You can set a recovery email address and phone number to help you if you forget your password or if you want to update privacy settings in the future.
     
