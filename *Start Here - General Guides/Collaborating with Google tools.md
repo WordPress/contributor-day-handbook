@@ -43,7 +43,7 @@ Gmailのメールアカウントをお持ちの場合、これはGoogleアカウ
     
 6.  この方法でGoogleアカウントからサインアウトすることもできます。
     
-7.  You can set a recovery email address and phone number to help you if you forget your password or if you want to update privacy settings in the future.
+7.  パスワードを忘れた場合や、将来プライバシー設定を更新したい場合に役立つ、復旧用の電子メールアドレスと電話番号を設定できます。
     
 
 ### Manage your Google account settings
