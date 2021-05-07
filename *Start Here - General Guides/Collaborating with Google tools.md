@@ -34,7 +34,7 @@ Gmailのメールアカウントをお持ちの場合、これはGoogleアカウ
 
 ![Google - Create Account Screen](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Create%20Account_en.png)
 
-4.  You will need to enter your First Name and Last name including an unique username with password which will also be the Gmail address for that account.
+4. 名と姓を入力し、固有のユーザー名とパスワードを入力します。これは、そのアカウントのGmailアドレスでもあります。
     
 
 ![Google - Create Account Screen 2](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Create%20Account%202_en.png)
