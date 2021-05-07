@@ -61,9 +61,9 @@ WordPressプロジェクトでの共同作業に使用するGoogleアカウン�
   
   
 
-# Google Docs
+# Google ドキュメント
 
-Google Docs is an online wordprocessor which we use in the WordPress community to collaborate on materials. You will be able to use it for free to collaborate in real time or asynchronously.
+Googleドキュメントは、WordPress コミュニティで資料の共同作業に使用するオンラインワードプロセッサです。 無料で使用して、リアルタイムまたは非同期で共同作業を行うことができます。
 
 ### What devices can I use to contribute to Google Docs
 
