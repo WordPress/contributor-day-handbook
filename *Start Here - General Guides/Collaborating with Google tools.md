@@ -67,7 +67,7 @@ Googleドキュメントは、WordPress コミュニティで資料の共同作�
 
 ### Google ドキュメントに投稿するために使用できるデバイス
 
-You can use a desktop, laptop, Android and Apple devices. For mobile devices you will need to download the app from your relevant store.
+デスクトップ、ラップトップ、Android、およびAppleデバイスを使用できます。 モバイルデバイスの場合は、関連するストアからアプリをダウンロードする必要があります。
 
 ### Why do I need to sign-in
 
