@@ -18,7 +18,7 @@ Gmailのメールアカウントをお持ちの場合、これはGoogleアカウ
 
   
 
-新しいGoogleアカウントを作成するには
+新しい Google アカウントを作成するには
 
 1.   [https://google.com](https://google.com/)にアクセスします。
     
@@ -65,7 +65,7 @@ WordPressプロジェクトでの共同作業に使用するGoogleアカウン�
 
 Googleドキュメントは、WordPress コミュニティで資料の共同作業に使用するオンラインワードプロセッサです。 無料で使用して、リアルタイムまたは非同期で共同作業を行うことができます。
 
-### What devices can I use to contribute to Google Docs
+### Google ドキュメントに投稿するために使用できるデバイス
 
 You can use a desktop, laptop, Android and Apple devices. For mobile devices you will need to download the app from your relevant store.
 
