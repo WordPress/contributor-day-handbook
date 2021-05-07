@@ -54,9 +54,9 @@ Gmailのメールアカウントをお持ちの場合、これはGoogleアカウ
 
   
 
-Do I need to stay logged into the Google account I use to collaborate in the WordPress project?
+WordPressプロジェクトでの共同作業に使用するGoogleアカウントにログインしたままにする必要がありますか？
 
-You can log out when you are not collaborating. You can also change accounts back to a work or another Google account you use.
+共同作業していないときはログアウトできます。 アカウントを職場または使用している別のGoogleアカウントに戻すこともできます。
 
   
   
