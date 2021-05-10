@@ -69,10 +69,9 @@ Googleドキュメントは、WordPress コミュニティで資料の共同作�
 
 デスクトップ、ラップトップ、Android、およびAppleデバイスを使用できます。 モバイルデバイスの場合は、関連するストアからアプリをダウンロードする必要があります。
 
-### Why do I need to sign-in
+### サインインする必要があるのはなぜですか？
 
-It is good practice to sign-in to a document before you start adding information or comments to it as WordPress is a community-based, collaborative project.
-
+WordPress はコミュニティベースの共同プロジェクトであるため、ドキュメントに情報やコメントを追加する前に、ドキュメントにサインインすることをお勧めします。
   
 
 If you have multiple Google accounts, this is also a way of checking you are logged into the document with the right account you want to use.
