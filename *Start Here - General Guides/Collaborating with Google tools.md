@@ -74,7 +74,7 @@ Googleドキュメントは、WordPress コミュニティで資料の共同作�
 WordPress はコミュニティベースの共同プロジェクトであるため、ドキュメントに情報やコメントを追加する前に、ドキュメントにサインインすることをお勧めします。
   
 
-If you have multiple Google accounts, this is also a way of checking you are logged into the document with the right account you want to use.
+複数のGoogleアカウントをお持ちの場合、使用する適切なアカウントでドキュメントにログインしていることを確認する方法でもあります。
 
   
 
