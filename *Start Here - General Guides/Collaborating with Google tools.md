@@ -78,7 +78,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 
   
 
-Signing in helps other collaborators know who has added a comment to be able to follow-up with you or to include your work in acknowledgements.
+サインインすると、他の共同編集者がコメントを追加した人を知ることができ、フォローアップしたり、謝辞にあなたの作業を含めたりすることができます。
 
 ### How do I make changes to a document?
 
