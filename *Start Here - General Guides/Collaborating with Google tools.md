@@ -80,7 +80,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 
 サインインすると、他の共同編集者がコメントを追加した人を知ることができ、フォローアップしたり、謝辞にあなたの作業を含めたりすることができます。
 
-### How do I make changes to a document?
+### ドキュメントに変更を加えるにはどうすればよいですか？
 
 A team may have its own guidelines or good practice on how to contribute to shared documents. For example, in most teams, contributors are asked to add comments in ‘suggestion mode’. To do this, highlight the text you are suggesting for change, click on the comment box and add your idea.
 
