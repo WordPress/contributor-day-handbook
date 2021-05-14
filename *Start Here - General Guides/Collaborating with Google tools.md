@@ -10,7 +10,7 @@ This video explains how Google Docs Drive works in an easy way: [https://www.you
 
 ## What will you need?
 
-A [Google](http://www.google.com/) account. This could be one you use in other environments or you could set up a new account to use just for the WordPress environment. The account’s username and profile picture will be displayed on documents you comment on and this may appear in search engines. For some contributors they find it more suitable to have a specific Google account just for the project, particularly if their other Google account is part of their work or organisational tools.
+A [Google](http://www.google.com/) account. This could be one you use in other environments or you could set up a new account to use just for the WordPress environment. The account’s username and profile picture will be displayed on documents you comment on and this may appear in search engines. For some contributors, they find it more suitable to have a specific Google account just for the project, particularly if their other Google account is part of their work or organizational tools.
 
 ## How do I set up a Google account?
 
@@ -39,7 +39,7 @@ To create a new Google account
 
 ![Google - Create Account Screen 2](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Create%20Account%202_en.png)
 
-5.  You can sign into your account In the top right corner of a Google browser window, enter your username and your password.
+5.  You can sign in to your account In the top right corner of a Google browser window, enter your username and your password.
     
 6.  You can also sign-out of the Google account this way.
     
@@ -63,11 +63,11 @@ You can log out when you are not collaborating. You can also change accounts bac
 
 # Google Docs
 
-Google Docs is an online wordprocessor which we use in the WordPress community to collaborate on materials. You will be able to use it for free to collaborate in real time or asynchronously.
+Google Docs is an online word processor which we use in the WordProcessor community to collaborate on materials. You will be able to use it for free to collaborate in real time or asynchronously.
 
 ### What devices can I use to contribute to Google Docs
 
-You can use a desktop, laptop, Android and Apple devices. For mobile devices you will need to download the app from your relevant store.
+You can use a desktop, laptop, Android and Apple devices. For mobile devices, you will need to download the app from your relevant store.
 
 ### Why do I need to sign-in
 
@@ -79,7 +79,7 @@ If you have multiple Google accounts, this is also a way of checking you are log
 
   
 
-Signing in helps other collaborators know who has added a comment to be able to follow-up with you or to include your work in acknowledgements.
+Signing in helps other collaborators know who has added a comment to be able to follow-up with you or to include your work in acknowledgments.
 
 ### How do I make changes to a document?
 
@@ -158,4 +158,4 @@ Check with your team where images should be stored and the sizes for use. Images
 
 ![Google Docs - Add image to document](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Add%20Image_en.png)
 
--   Additionally, images can also be inserted by dragging and dropping from a folder on your computer, or by copying them and pasting them in the document.
+-   Additionally, images can also be inserted by dragging and dropping from a folder on your computer, or by copying them and pasting them in the document
