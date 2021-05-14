@@ -82,7 +82,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 
 ### ドキュメントに変更を加えるにはどうすればよいですか？
 
-A team may have its own guidelines or good practice on how to contribute to shared documents. For example, in most teams, contributors are asked to add comments in ‘suggestion mode’. To do this, highlight the text you are suggesting for change, click on the comment box and add your idea.
+チームには、共有ドキュメントに貢献する方法に関する独自のガイドラインまたはグッドプラクティスがある場合があります。 たとえば、ほとんどのチームでは、投稿者は「提案モード」でコメントを追加するように求められます。 これを行うには、変更を提案しているテキストを強調表示し、コメントボックスをクリックして、アイデアを追加します。
 
   
 
