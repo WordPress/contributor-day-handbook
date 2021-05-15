@@ -86,11 +86,9 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 
   
 
-In the top right of the document window, you can check the mode it has been set to: ‘Suggesting’, ‘Editing’ or ‘Viewing’. Most times, you will need to be in ‘suggesting mode’ and collaborate by adding comments. When documents are being finalised for publication, they may be changed by a team rep or final editor to ‘editing’ mode. Check with a task owner or a team rep if you are unsure if further comments should still be added.
+ドキュメントウィンドウの右上で、設定されているモードを確認できます：「提案」、「編集」、または「表示」。 ほとんどの場合、「提案モード」になり、コメントを追加して共同作業を行う必要があります。 ドキュメントが公開用に完成するとき、チームの担当者または最終編集者によって「編集」モードに変更される場合があります。 さらにコメントを追加する必要があるかどうかわからない場合は、タスクの所有者またはチームの担当者に確認してください。
 
-  
-
-Also, make sure that you do not accept changes and/or resolve comments if you are not one of the task leads. In case you accidentally do either of these, you can revert the changes by clicking on the “All changes saved in Drive” (or “See new changes”) link next to the toolbar below the title of the document, which will open the version history and you’ll be able to restore the selected previous version. (screenshot needed)
+また、タスクリーダーでない場合は、変更を受け入れたり、コメントを解決したりしないようにしてください。 これらのいずれかを誤って行った場合は、ドキュメントのタイトルの下にあるツールバーの横にある[ドライブに保存されたすべての変更]（または[新しい変更を表示]）リンクをクリックして変更を元に戻すことができます。これにより、バージョンが開きます。 履歴を表示すると、選択した以前のバージョンを復元できます。 （スクリーンショットが必要）
 
 ### How do I activate or check that I am commenting in suggestion mode?
 
