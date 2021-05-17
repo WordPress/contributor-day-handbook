@@ -94,7 +94,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 
   
 
-1.  Navigate to the top-right corner of the document’s toolbar, just below the ‘Share’ button.
+1. [共有]ボタンのすぐ下にある、ドキュメントのツールバーの右上隅に移動します。
     
 
 ![Google Docs - Share Button](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Share%20Button_en.png)
