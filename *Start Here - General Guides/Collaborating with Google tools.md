@@ -99,7 +99,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 
 ![Google Docs - Share Button](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Share%20Button_en.png)
 
-2.  Under the options in the drop-down menu, choose the middle option ‘Suggesting’.
+2. ドロップダウンメニューのオプションで、中央のオプション[提案]を選択します。
     
 
 ![Google Docs - Activating the Suggesting editing mode](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Edit%20Document%201_en.png)
