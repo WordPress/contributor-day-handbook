@@ -104,7 +104,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 
 ![Google Docs - Activating the Suggesting editing mode](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Edit%20Document%201_en.png)
 
-3.  To check if you are using the right mode, just check which icon appears in the toolbar. When suggestion mode is activated, the pen icon seen in the previous two screenshots will be replaced with the comment box & pen icon (see screenshot below).
+3.  適切なモードを使用しているかどうかを確認するには、ツールバーに表示されるアイコンを確認するだけです。 提案モードがアクティブになると、前の2つのスクリーンショットに表示されていたペンアイコンがコメントボックスとペンアイコンに置き換えられます（下のスクリーンショットを参照）。
     
 
 ![Google Docs - Editing mode button](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Edit%20Document%202_en.png)
