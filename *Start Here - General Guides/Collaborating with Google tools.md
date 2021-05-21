@@ -111,7 +111,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 
   
 
-Writing in suggestion mode looks a little bit different than with regular editing. Note also the comment box which appears to the right.
+提案モードでの書き込みは、通常の編集とは少し異なります。 右側に表示されるコメントボックスにも注意してください。
 
 ![Google Docs - What writing in suggesting mode looks like](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Edit%20Document%203_en.png)
 
