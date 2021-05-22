@@ -120,13 +120,9 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 ![oogle Docs - What writing in suggesting mode looks like 2](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Edit%20Document%204_en.jpg)
 
   
+コラボレーションを促進するために、Googleドキュメントでは、ドキュメント内で作業している他のユーザーとその位置、および特定のコメントに関連するコメントボックスも表示されます。
 
-To facilitate collaboration, Google Docs even shows you other people working in the document and their position inside the document, as well as in the comment box related to a particular comment.
-
-  
-
-When you add a comment in suggestion mode, the ‘document owner’ will usually receive an email notification. Others can add replies or make further suggestions.
-
+提案モードでコメントを追加すると、通常、「ドキュメントの所有者」にメール通知が届きます。 他の人は返信を追加したり、さらに提案をしたりできます。
   
 
 #### Adding a comment
