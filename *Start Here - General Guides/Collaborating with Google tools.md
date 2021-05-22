@@ -125,8 +125,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 提案モードでコメントを追加すると、通常、「ドキュメントの所有者」にメール通知が届きます。 他の人は返信を追加したり、さらに提案をしたりできます。
   
 
-#### Adding a comment
-
+#### コメントを追加する
 -   Highlight the text
     
 -   Click ‘insert a comment’ in the toolbar on a computer or the + insert sign and choose ‘comment’ if you are using the Google Docs app. Additionally, on a computer, you can also insert comments by right-clicking with your mouse (or using the ctrl key together with your touchpad), which opens some editing options.
