@@ -126,7 +126,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
   
 
 #### コメントを追加する
--   Highlight the text
+-   テキストを強調表示する
     
 -   Click ‘insert a comment’ in the toolbar on a computer or the + insert sign and choose ‘comment’ if you are using the Google Docs app. Additionally, on a computer, you can also insert comments by right-clicking with your mouse (or using the ctrl key together with your touchpad), which opens some editing options.
     
