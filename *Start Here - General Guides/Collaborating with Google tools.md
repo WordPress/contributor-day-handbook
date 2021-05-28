@@ -141,13 +141,12 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 
 画像を保存する場所と使用するサイズをチームに確認してください。 画像には使用許可が必要であり、チームにはこれらを保存する場所に関するガイドラインがある場合があります。
 
--   Open the Google Doc
-    
--   Click ‘Insert’ in the toolbar below the document’s title, then in the dropdown menu hover over the first option ‘Image’ and different options for inserting images will appear to the right of the dropdown menu. Choose the image from your device, the web, Drive, a photo management application (e.g. Photos for Mac) or your camera. This will add the image to your document.
-    
--   To insert an .gif file, click ‘By URL’ and add the full web address.
-    
+-   Googleドキュメントを開く
+
+- ドキュメントのタイトルの下にあるツールバーの[挿入]をクリックし、ドロップダウンメニューで最初のオプション[画像]にカーソルを合わせると、ドロップダウンメニューの右側に画像を挿入するためのさまざまなオプションが表示されます。 デバイス、Web、ドライブ、写真管理アプリケーション（Mac用の写真など）、またはカメラから画像を選択します。 これにより、画像がドキュメントに追加されます。
+
+- .gifファイルを挿入するには、[URL別]をクリックして完全なWebアドレスを追加します。
 
 ![Google Docs - Add image to document](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Google%20Docs%20-%20Add%20Image_en.png)
 
--   Additionally, images can also be inserted by dragging and dropping from a folder on your computer, or by copying them and pasting them in the document.
+-   さらに、画像は、コンピューター上のフォルダーからドラッグアンドドロップするか、画像をコピーしてドキュメントに貼り付けることによって挿入することもできます。
