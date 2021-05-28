@@ -130,7 +130,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
     
 -  パソコンのツールバーの[コメントを挿入]をクリックするか、+挿入記号をクリックして、Googleドキュメントアプリを使用している場合は[コメント]を選択します。 さらに、コンピューターでは、マウスで右クリックして（または、タッチパッドと一緒にCtrlキーを使用して）コメントを挿入することもできます。これにより、いくつかの編集オプションが開きます。
     
--   Type the comment into the box and click on return when finished
+-   ボックスにコメントを入力し、終了したら戻るをクリックします。
     
 -   The comment will be added under your username
     
