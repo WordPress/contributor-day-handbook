@@ -139,7 +139,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
 
 ### Googleドキュメントに画像を追加する
 
-Check with your team where images should be stored and the sizes for use. Images should have permissions for use and teams may have guidelines for where these should be stored.
+画像を保存する場所と使用するサイズをチームに確認してください。 画像には使用許可が必要であり、チームにはこれらを保存する場所に関するガイドラインがある場合があります。
 
 -   Open the Google Doc
     
