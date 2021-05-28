@@ -132,7 +132,7 @@ WordPress はコミュニティベースの共同プロジェクトであるた�
     
 -   ボックスにコメントを入力し、終了したら戻るをクリックします。
     
--   The comment will be added under your username
+-   コメントはあなたのユーザー名の下に追加されます。
     
 
   
