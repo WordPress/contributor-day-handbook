@@ -1,5 +1,5 @@
 
-# How to set up your profile picture: Gravatar
+# プロフィール写真の設定方法: Gravatar
 
 Gravatar (which stands for Globally Recognized Avatar) is a free service provided by Automattic. It allows you to assign a picture to your email account so that every time you use that email account in one of the connected services, your profile picture will be shown.
 
