@@ -9,7 +9,7 @@ WordPress.com アカウントをまだお持ちでない場合は、以下の手
 
 ## アカウントにサインアップする
 
-1.  Go to [https://gravatar.com/](https://gravatar.com/)
+1.  [https://gravatar.com/](https://gravatar.com/) にアクセスします。
     
 2.  Click on the blue button ‘Create Your Own Gravatar’ and enter your details: Email address, Username, Password. Then click ‘Create Your Account’ to save your details.
     
