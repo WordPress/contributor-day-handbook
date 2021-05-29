@@ -7,7 +7,7 @@ Gravatar (Globally Recognized Avatar の略) は、Automattic が提供する無
 
 WordPress.com アカウントをまだお持ちでない場合は、以下の手順に従って Gravatar アカウントにサインアップしてください。
 
-## Sign up for an account
+## アカウントにサインアップする
 
 1.  Go to [https://gravatar.com/](https://gravatar.com/)
     
