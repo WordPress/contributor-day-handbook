@@ -1,11 +1,11 @@
 
 # プロフィール写真の設定方法: Gravatar
 
-Gravatar (which stands for Globally Recognized Avatar) is a free service provided by Automattic. It allows you to assign a picture to your email account so that every time you use that email account in one of the connected services, your profile picture will be shown.
+Gravatar (Globally Recognized Avatar の略) は、Automattic が提供する無料のサービスです。 メール アカウントに画像を割り当てて、接続されたサービスの 1 つでそのメール アカウントを使用するたびに、プロファイル画像が表示されるようにすることができます。
 
-If you already have a WordPress.com account, you can use this to sign into gravatar.com. To add your profile picture, navigate to ‘Add pictures and emails’.
+すでに WordPress.com アカウントをお持ちの場合は、これを使用して gravatar.com にサインインできます。 プロフィール写真を追加するには、[写真とメールの追加] に移動します。
 
-If you do not have a WordPress.com account already, follow the below steps to sign up for a Gravatar account.
+WordPress.com アカウントをまだお持ちでない場合は、以下の手順に従って Gravatar アカウントにサインアップしてください。
 
 ## Sign up for an account
 
