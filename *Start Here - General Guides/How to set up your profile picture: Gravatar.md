@@ -15,13 +15,13 @@ WordPress.com アカウントをまだお持ちでない場合は、以下の手
     
 ![Screenshot of Gravatar signup page](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Gravatar%20Sign%20Up%20-%20Create%20WPcom%20Account_EN.png)
 
-3.  You will receive an email asking you to confirm your email address. The email will come from WordPress.com, not Gravatar. Please note that you won't be able to use Gravatar until you click on the link in that email.
+3. メールアドレスの確認を求めるメールが届きます。 メールは Gravatar ではなく WordPress.com から送信されます。 そのメールのリンクをクリックするまで、Gravatar を使用できないことに注意してください。
     
-4.  Click on the ‘Activate Account’ button in the email to finish the process.
+4.  メール内の「Activate Account」ボタンをクリックしてプロセスを完了します。
     
-5.  You will then be taken back to WordPress.com where you'll see a message thanking you for confirming your email and asking if you want to return to gravatar.com.
+5.  その後、WordPress.com に戻り、メールを確認してくれてありがとう、gravatar.com に戻りたいかどうかを尋ねるメッセージが表示されます。
     
-6.  Click the ‘Sign In to Gravatar’ button to do just that.
+6.  それを行うには、[Gravatar にサインイン] ボタンをクリックします。
     
 
 ## Add your email accounts
