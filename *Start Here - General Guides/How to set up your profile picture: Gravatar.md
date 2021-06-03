@@ -24,7 +24,7 @@ WordPress.com アカウントをまだお持ちでない場合は、以下の手
 6.  それを行うには、[Gravatar にサインイン] ボタンをクリックします。
     
 
-## Add your email accounts
+## E-mail を追加する
 
 You can add your Gravatar profile picture to as many email addresses as you like. To do this, sign into gravatar.com. Then on the home page, under your pictures, click on ‘Add email address’.
 
