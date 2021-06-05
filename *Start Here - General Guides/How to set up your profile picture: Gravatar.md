@@ -30,9 +30,9 @@ Gravatar のプロフィール写真は、好きなだけメール アドレス�
 
 ![Screenshot of the Manage Gravatars page, where you can add email addresses](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Gravatar%20-%20Add%20Email%20Address%20en.png)
 
-Every time you add an email address you will have to confirm it via the email you receive from WordPress.com.
+メールアドレスを追加するたびに、WordPress.comから送られてくるメールで確認する必要があります。
 
-You can return to the home page at any time by clicking on ‘My Gravatars’ on the black horizontal toolbar on the top of the screen.
+画面上部の黒い横長ツールバーの「My Gravatars」をクリックすると、いつでもホームページに戻ることができます。
 
 
 ## Add your pictures
