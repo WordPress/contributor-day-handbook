@@ -35,7 +35,7 @@ Gravatar のプロフィール写真は、好きなだけメール アドレス�
 画面上部の黒い横長ツールバーの「My Gravatars」をクリックすると、いつでもホームページに戻ることができます。
 
 
-## Add your pictures
+## 写真の追加
 
 1.  Click on ‘My Gravatars’ on the black horizontal toolbar on the top of the screen
     
