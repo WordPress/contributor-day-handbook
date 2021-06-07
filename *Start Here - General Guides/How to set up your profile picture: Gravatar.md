@@ -37,11 +37,9 @@ Gravatar のプロフィール写真は、好きなだけメール アドレス�
 
 ## 写真の追加
 
-1.  Click on ‘My Gravatars’ on the black horizontal toolbar on the top of the screen
-    
-2.  Scroll down to ‘Pick New Image’
-    
-3.  Click ‘Add a new image’
+1. 画面上部にある黒い横長のツールバーの「My Gravatars」をクリックする。
+2. スクロールダウンして「Pick New Image」をクリックします。
+3. 「Add a new image」をクリックする
     
 ![Screenshot of the Manage Gravatars page, where you can add upload your profile picture](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Gravatar%20-%20Add%20New%20Image_en.png) 
 
