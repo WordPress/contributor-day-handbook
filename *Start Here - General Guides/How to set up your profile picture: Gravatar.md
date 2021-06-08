@@ -43,7 +43,7 @@ Gravatar のプロフィール写真は、好きなだけメール アドレス�
     
 ![Screenshot of the Manage Gravatars page, where you can add upload your profile picture](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Gravatar%20-%20Add%20New%20Image_en.png) 
 
-4.  Select the source of your image. You can upload an image from your computer, enter a URL if your image is hosted elsewhere online, select an image you have previously uploaded or use your webcam to take a new photo. Click ‘Next’ to continue.
+4. 画像のソースを選択します。コンピューターから画像をアップロードしたり、画像がオンライン上の他の場所でホストされている場合はURLを入力したり、以前にアップロードした画像を選択したり、ウェブカメラを使って新しい写真を撮影したりすることができます。「次へ」をクリックして次に進みます。
     
 5.  Once you have added your image, you will have the option to resize the picture and see the results in different sizes. Even if you do not want to change anything, you will need to click ‘Crop Image’ to move to the next step.
     
