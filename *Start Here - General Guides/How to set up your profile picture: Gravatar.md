@@ -45,10 +45,9 @@ Gravatar のプロフィール写真は、好きなだけメール アドレス�
 
 4. 画像のソースを選択します。コンピューターから画像をアップロードしたり、画像がオンライン上の他の場所でホストされている場合はURLを入力したり、以前にアップロードした画像を選択したり、ウェブカメラを使って新しい写真を撮影したりすることができます。「次へ」をクリックして次に進みます。
     
-5.  Once you have added your image, you will have the option to resize the picture and see the results in different sizes. Even if you do not want to change anything, you will need to click ‘Crop Image’ to move to the next step.
+5.  画像を追加したら、画像のサイズを変更するオプションがあり、異なるサイズで結果を確認することができます。何も変更しない場合でも、「画像の切り取り」をクリックして次のステップに進む必要があります。
     
-6.  Choose a rating for your image. If your gravatar might not be suitable for younger or sensitive audiences, make sure to set a rating higher than G.
+6.  画像の評価を選択します。あなたのグラビアが若い人や敏感な人にはふさわしくないかもしれない場合は、必ずG以上のレーティングを設定してください。
     
-7.  You will then be asked ‘Where would you like to use this image?’. This is where you connect your picture to your email account(s). You can select more than one address. Click ‘Use for selected addresses’ to confirm.
-   
-    If you want to change the picture associated with an email account, you will need to click on the email account, click on the picture and confirm you want to link them.
+7.  次に、「この画像をどこで使用しますか」という質問が表示されます。ここでは、あなたの画像をあなたのメールアカウントに接続します。複数のアドレスを選択することができます。選択したアドレスに使用する」をクリックして確定します。
+メールアカウントに関連付けられた画像を変更したい場合は、メールアカウントをクリックし、画像をクリックして、リンクすることを確認する必要があります。
