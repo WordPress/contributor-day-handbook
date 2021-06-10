@@ -1,6 +1,6 @@
 
 
-## What is Docker?
+## Docker とは？
 
 Docker is an open-source platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so that you can deliver software quickly. By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
 
