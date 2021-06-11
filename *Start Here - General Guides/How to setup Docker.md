@@ -2,9 +2,9 @@
 
 ## Docker とは？
 
-Docker is an open-source platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so that you can deliver software quickly. By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
+Dockerは、アプリケーションを開発、出荷、実行するためのオープンソースのプラットフォームです。Dockerは、アプリケーションをインフラストラクチャから分離することで、ソフトウェアを迅速に提供することを可能にします。コードを迅速に出荷、テスト、デプロイするためのDockerの方法論を利用することで、コードを書いてから本番で実行するまでの時間を大幅に短縮することができます。
 
-Docker is a platform for developers and sysadmins to build, run, and share applications with containers. The use of containers to deploy applications is called containerization. Containers are not new, but their use for easily deploying applications is.
+Dockerは、開発者やシステム管理者がコンテナを使ってアプリケーションを構築、実行、共有するためのプラットフォームです。コンテナを使ってアプリケーションを展開することをコンテナ化といいます。コンテナは新しいものではありませんが、アプリケーションを簡単にデプロイするために使用されています。
 
 ## Installation
 
