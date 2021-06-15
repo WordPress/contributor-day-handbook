@@ -32,7 +32,7 @@ Docker provides .deb and .rpm packages for the most common Linux distros such as
 
 Visit [https://docs.docker.com/engine/install/#server](https://docs.docker.com/engine/install/#server) for more information.
 
-## Using Docker to Contribute to WordPress
+## Dockerを利用したWordPressへのコントリビュート
 
 Many WordPress projects have switched to use Docker because it’s easier and more lightweight than Vagrant or other similar setups. At the moment you can use Docker to contribute to WordPress Core or WordCamp.org environment.
 
