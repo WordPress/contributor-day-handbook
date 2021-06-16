@@ -34,7 +34,7 @@ Visit [https://docs.docker.com/engine/install/#server](https://docs.docker.com/e
 
 ## Dockerを利用したWordPressへのコントリビュート
 
-Many WordPress projects have switched to use Docker because it’s easier and more lightweight than Vagrant or other similar setups. At the moment you can use Docker to contribute to WordPress Core or WordCamp.org environment.
+多くのWordPressプロジェクトは、Vagrantや他の類似したセットアップよりも簡単で軽量であるため、Dockerの使用に切り替えています。現時点では、WordPress CoreやWordCamp.orgの環境に貢献するためにDockerを使うことができます。
 
 Visit [https://github.com/WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) to learn how to set up and use the Docker containers for WordPress Core development.
 
