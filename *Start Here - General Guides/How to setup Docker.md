@@ -11,8 +11,8 @@ Dockerは、開発者やシステム管理者がコンテナを使ってアプ�
 ### MacOS
 
 1. 次のページからダウンロードとインストールを行います。 [https://hub.docker.com/editions/community/docker-ce-desktop-mac/](https://hub.docker.com/editions/community/docker-ce-desktop-mac/)
-2. Double-click Docker.dmg to open the installer, then drag the Docker icon to the Applications folder.
-3. Double-click Docker.app in the Applications folder to start Docker. 
+2. Docker.dmgをダブルクリックしてインストーラーを開き、Dockerアイコンを「アプリケーション」フォルダにドラッグします。
+3. アプリケーションフォルダー内のDocker.appをダブルクリックして、Dockerを起動します。
 
 Visit [https://docs.docker.com/docker-for-mac/install/](https://docs.docker.com/docker-for-mac/install/) for more information.
 
