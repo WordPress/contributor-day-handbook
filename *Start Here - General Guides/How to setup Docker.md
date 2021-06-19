@@ -14,7 +14,7 @@ Dockerは、開発者やシステム管理者がコンテナを使ってアプ�
 2. Docker.dmgをダブルクリックしてインストーラーを開き、Dockerアイコンを「アプリケーション」フォルダにドラッグします。
 3. アプリケーションフォルダー内のDocker.appをダブルクリックして、Dockerを起動します。
 
-Visit [https://docs.docker.com/docker-for-mac/install/](https://docs.docker.com/docker-for-mac/install/) for more information.
+詳細は https://docs.docker.com/docker-for-mac/install/ をご覧ください。
 
 ### Windows
 
