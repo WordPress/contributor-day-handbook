@@ -21,8 +21,8 @@ Dockerは、開発者やシステム管理者がコンテナを使ってアプ�
 1. 次のページからダウンロードとインストールを行います。 [https://hub.docker.com/editions/community/docker-ce-desktop-windows/](https://hub.docker.com/editions/community/docker-ce-desktop-windows/)
 2. Docker Desktop Installer.exe をダブルクリックして、インストーラーを実行します。
 3. インストールウィザードの指示に従って、ライセンスの承認、インストーラーの認証を行い、インストールを進めてください。
-4. When prompted, authorize the Docker Desktop Installer with your system password during the installation process. Privileged access is needed to install networking components, links to the Docker apps, and manage the Hyper-V VMs.
-5. Click Finish on the setup complete dialog and launch the Docker Desktop application.
+4. プロンプトが表示されたら、インストールプロセス中にシステムパスワードで Docker Desktop Installer を認証してください。ネットワークコンポーネントのインストール、Docker アプリへのリンク、Hyper-V VMの管理には特権的なアクセスが必要です。
+5. セットアップ完了ダイアログで「完了」をクリックし、Docker Desktop アプリケーションを起動します。
 
 Visit [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/) for more information.
 
