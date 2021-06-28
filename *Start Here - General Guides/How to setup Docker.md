@@ -28,7 +28,7 @@ Visit [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.
 
 ### Linux
 
-Docker provides .deb and .rpm packages for the most common Linux distros such as Ubuntu, Debian, and CentOS. Installation to Linux is not a straightforward procedure and requires some knowledge about package management.
+Dockerは、Ubuntu、Debian、CentOSなどの最も一般的なLinuxディストロ用の.debおよび.rpmパッケージを提供しています。Linuxへのインストールは単純な手順ではなく、パッケージ管理に関する知識が必要です。
 
 Visit [https://docs.docker.com/engine/install/#server](https://docs.docker.com/engine/install/#server) for more information.
 
