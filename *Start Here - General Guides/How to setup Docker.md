@@ -30,7 +30,7 @@ Visit [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.
 
 Dockerは、Ubuntu、Debian、CentOSなどの最も一般的なLinuxディストロ用の.debおよび.rpmパッケージを提供しています。Linuxへのインストールは単純な手順ではなく、パッケージ管理に関する知識が必要です。
 
-Visit [https://docs.docker.com/engine/install/#server](https://docs.docker.com/engine/install/#server) for more information.
+詳細は https://docs.docker.com/engine/install/#server をご覧ください。
 
 ## Dockerを利用したWordPressへのコントリビュート
 
