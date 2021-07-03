@@ -36,6 +36,6 @@ Dockerは、Ubuntu、Debian、CentOSなどの最も一般的なLinuxディスト
 
 多くのWordPressプロジェクトは、Vagrantや他の類似したセットアップよりも簡単で軽量であるため、Dockerの使用に切り替えています。現時点では、WordPress CoreやWordCamp.orgの環境に貢献するためにDockerを使うことができます。
 
-Visit [https://github.com/WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) to learn how to set up and use the Docker containers for WordPress Core development.
+WordPress Core開発用のDockerコンテナのセットアップと使用方法については、https://github.com/WordPress/wordpress-develop をご覧ください。
 
-Visit [https://github.com/WordPress/wordcamp.org/blob/production/.docker/readme.md](https://github.com/WordPress/wordcamp.org/blob/production/.docker/readme.md) to learn how to set up and use the Docker containers for WordCamp.org environment development.
+WordCamp.orgの環境構築のためのDockerコンテナのセットアップと使用方法については、https://github.com/WordPress/wordcamp.org/blob/production/.docker/readme.md をご覧ください。
