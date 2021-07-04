@@ -1,4 +1,4 @@
-### What is Trello?
+### Trello とは?
 
 Trello is a free project management tool used by many WordPress.org teams to organise their contribution.
 While every team has different approached, in this guide you will find basic instructions about the app to get you started.
