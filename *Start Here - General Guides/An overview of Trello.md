@@ -3,7 +3,7 @@
 Trelloは、多くのWordPress.orgチームが貢献度を整理するために使用している無料のプロジェクト管理ツールです。チームごとにアプローチの仕方は異なりますが、このガイドでは、アプリの基本的な使い方を紹介していますので、ぜひ始めてみてください。
 
 Trelloは、仕事の進め方を示すカンバンボードをベースにしており、各列がプロセス全体の段階を表しています。トップレベルには組織があり、次にチーム、ボード、カードがあります。
-### Signup
+### サインアップ
 
 1. Sign up to Trello: https://trello.com/signup
 2. Find the board of the team you would like to join. At the time of writing (March 2020), these are the available team boards:
