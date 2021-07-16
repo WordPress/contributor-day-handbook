@@ -6,7 +6,7 @@ Trelloは、仕事の進め方を示すカンバンボードをベースにし�
 ### サインアップ
 
 1. 次の URL で Trello にサインアップします。: https://trello.com/signup
-2. Find the board of the team you would like to join. At the time of writing (March 2020), these are the available team boards:
+2. 参加したいチームのボードを探します。記事執筆時点（2020年3月）で、利用可能なチームのボードです。
    * [Community](https://trello.com/wpcommunityteam)
    * [Design](https://trello.com/b/fnHScayo/design-team)
    * [Documentation](https://trello.com/wordpressdocs)
