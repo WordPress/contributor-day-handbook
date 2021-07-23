@@ -14,7 +14,8 @@ Trelloは、仕事の進め方を示すカンバンボードをベースにし�
    * [Theme Review](https://trello.com/b/proI6Fkp/wptrt-requirements)
    * [Training](https://trello.com/b/BsfzszRM/wordpress-training-team-lesson-plan-development)
 
-For some boards, it’s enough to have a Trello account to leave comments on cards to ask questions or share insights. However in some cases, you might need to be added to the board by the owner.
+一部のボードでは、質問や洞察を共有するためにカードにコメントを残すには、Trelloのアカウントがあれば十分です。しかし、場合によっては、オーナーからボードに追加してもらう必要があるかもしれません。
+
 
 You will also need to be added to boards to create or edit cards. You can ask to be added to a board in the team’s Slack channel or by contacting one of its Team Representatives: https://make.wordpress.org/updates/team-reps/
 
