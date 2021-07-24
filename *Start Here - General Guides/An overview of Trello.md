@@ -17,7 +17,7 @@ Trelloは、仕事の進め方を示すカンバンボードをベースにし�
 一部のボードでは、質問や洞察を共有するためにカードにコメントを残すには、Trelloのアカウントがあれば十分です。しかし、場合によっては、オーナーからボードに追加してもらう必要があるかもしれません。
 
 
-You will also need to be added to boards to create or edit cards. You can ask to be added to a board in the team’s Slack channel or by contacting one of its Team Representatives: https://make.wordpress.org/updates/team-reps/
+また、カードを作成・編集するためには、ボードに追加される必要があります。ボードへの追加は、チームのSlackチャンネルで依頼するか、チーム代表者の一人に連絡してください。https://make.wordpress.org/updates/team-reps/
 
 ### An overview of Trello Cards
 
