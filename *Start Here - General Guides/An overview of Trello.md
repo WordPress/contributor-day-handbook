@@ -19,7 +19,7 @@ Trelloは、仕事の進め方を示すカンバンボードをベースにし�
 
 また、カードを作成・編集するためには、ボードに追加される必要があります。ボードへの追加は、チームのSlackチャンネルで依頼するか、チーム代表者の一人に連絡してください。https://make.wordpress.org/updates/team-reps/
 
-### An overview of Trello Cards
+### Trello Cardsの概要について
 
 Click on a card to view its details.
 
