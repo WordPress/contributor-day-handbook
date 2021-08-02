@@ -21,9 +21,9 @@ Trelloは、仕事の進め方を示すカンバンボードをベースにし�
 
 ### Trello Cardsの概要について
 
-Click on a card to view its details.
+カードをクリックすると、その詳細が表示されます。
 
-There are three main sections you can see in any given card.
+カードには主に3つのセクションがあります。
 
 1. Main card information - includes: 
   * Title
