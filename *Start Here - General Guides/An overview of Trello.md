@@ -25,14 +25,14 @@ Trelloは、仕事の進め方を示すカンバンボードをベースにし�
 
 カードには主に3つのセクションがあります。
 
-1. Main card information - includes: 
-  * Title
-  * Description
-  * Members: depending how the board has been set up, some or all of the members will be displayed
-  * Labels
-  * Due date
-  * Checklists
-  * Attachments
+1. 主なカード情報 - 以下を含みます。
+  * タイトル
+  * 説明
+  * メンバー：ボードの設定に応じて、メンバーの一部またはすべてが表示されます。
+  * ラベル
+  * 期限
+  * チェックリスト
+  * 添付ファイル
 2. Activity - includes comments on that card and active conversations between the team
 3. Add attachment - area on the right of the card where documents, images and links can be added
 
