@@ -33,8 +33,8 @@ Trelloは、仕事の進め方を示すカンバンボードをベースにし�
   * 期限
   * チェックリスト
   * 添付ファイル
-2. Activity - includes comments on that card and active conversations between the team
-3. Add attachment - area on the right of the card where documents, images and links can be added
+2. アクティビティ - そのカードに対するコメントや、チーム間の活発な会話が含まれます。
+3. 添付ファイルの追加 - カードの右側にあるエリアで、ドキュメント、画像、リンクを追加することができます。
 
 ![Screenshot of a Trello Card](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Trello%20card_original_en.png)
 
