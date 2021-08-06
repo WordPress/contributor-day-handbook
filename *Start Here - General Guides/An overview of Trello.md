@@ -38,9 +38,9 @@ Trelloは、仕事の進め方を示すカンバンボードをベースにし�
 
 ![Screenshot of a Trello Card](https://github.com/WordPress/contributor-day-handbook/blob/master/images/Trello%20card_original_en.png)
 
-### Collaborating with Trello
+### Trelloとのコラボレーション
 
-In any given card description, comment or checklist you can mention your fellow team members by using the @ sign followed by their Trello username. This is often used to add replies, assign tasks and to keep track of who is working on what.
+カードの説明、コメント、チェックリストの中で、@マークに続いてTrelloのユーザー名を使うことで、チームの仲間に言及することができます。これは、返信を追加したり、タスクを割り当てたり、誰が何に取り組んでいるかを把握するためによく使われます。
 
 ### Additional resources
 
