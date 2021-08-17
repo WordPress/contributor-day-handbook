@@ -42,9 +42,9 @@ Trelloは、仕事の進め方を示すカンバンボードをベースにし�
 
 カードの説明、コメント、チェックリストの中で、@マークに続いてTrelloのユーザー名を使うことで、チームの仲間に言及することができます。これは、返信を追加したり、タスクを割り当てたり、誰が何に取り組んでいるかを把握するためによく使われます。
 
-### Additional resources
+### 追加のリソース
 
-Marketing Team’s guide to using Trello
+Trelloの使用に関するマーケティングチームのガイド
 https://make.wordpress.org/marketing/handbook/communication/how-to-use-trello/
 
 Trello’s user guide
