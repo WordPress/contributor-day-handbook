@@ -1,4 +1,4 @@
-# How to Set Up VVV for Contributing to WordPress
+# WordPressへのコントリビュート用 VVV の設定方法
 
 [VVV (Varying Vagrant Vagrants)](https://github.com/Varying-Vagrant-Vagrants/VVV) is a virtual machine that runs on Virtualbox. In other words, it is a self-contained local development environment aimed at WordPress developers. It can be used to build sites and contribute to the development of WordPress Core.
 
