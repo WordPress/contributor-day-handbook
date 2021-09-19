@@ -3,7 +3,7 @@
 VVV（Varying Vagrant Vagrants）とは、Virtualbox上で動作する仮想マシンのことです。つまり、WordPress開発者に向けた自己完結型のローカル開発環境です。サイトを構築したり、WordPress Coreの開発に貢献するために利用することができます。
 
 
-# For Contributor Day Organizers
+# コントリビューターデイオーガナイザー向け
 
 If you’re running a WordCamp Contributor Day, you should use the contributor day set up script to bundle a pre-configured VVV instance (including instructions) that can be copied onto USB sticks and given to attendees. Setting up a local environment over conference Wi-Fi can cause problems for all. The setup script generates a pre-built version of VVV that greatly reduces the amount of data that attendees need to download.
 
