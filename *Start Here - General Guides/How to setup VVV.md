@@ -5,7 +5,7 @@ VVV（Varying Vagrant Vagrants）とは、Virtualbox上で動作する仮想マ�
 
 # コントリビューターデイオーガナイザー向け
 
-If you’re running a WordCamp Contributor Day, you should use the contributor day set up script to bundle a pre-configured VVV instance (including instructions) that can be copied onto USB sticks and given to attendees. Setting up a local environment over conference Wi-Fi can cause problems for all. The setup script generates a pre-built version of VVV that greatly reduces the amount of data that attendees need to download.
+WordCamp Contributor Day を開催している場合は、contributor day セットアップ スクリプトを使用して、事前に構成された VVV インスタンス (手順を含む) をバンドルし、USB スティックにコピーして出席者に配布する必要があります。 会議用 Wi-Fi 経由でローカル環境をセットアップすると、すべての問題が発生する可能性があります。 セットアップ スクリプトは、出席者がダウンロードする必要のあるデータ量を大幅に削減するビルド済みバージョンの VVV を生成します。
 
 [Click for information about the VVV contributor day USB drive generator](https://github.com/Varying-Vagrant-Vagrants/CD-USB-Generator)
 
