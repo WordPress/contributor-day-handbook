@@ -10,7 +10,7 @@ If you’re running a WordCamp Contributor Day, you should use the contributor d
 [Click for information about the VVV contributor day USB drive generator](https://github.com/Varying-Vagrant-Vagrants/CD-USB-Generator)
 
 
-# For Contributor Day Attendees
+# コントリビューターデー参加者の方向け
 
 
 ## Installing VVV with a Contributor Day USB stick
